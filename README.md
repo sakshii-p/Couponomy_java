@@ -7,6 +7,11 @@ Couponomy is a JavaFX-based desktop application that enables users to upload and
 The application follows an admin verification workflow where uploaded coupons are reviewed before becoming publicly visible, ensuring authenticity and improving trust within the platform.
 
 ---
+## Download Installer
+
+[Download Latest Installer](https://github.com/sakshii-p/Couponomy_java/releases/tag/v1.0)
+
+No Java installation required.
 
 # Features
 
