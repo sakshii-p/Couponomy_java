@@ -2,3 +2,6 @@ target/
 src/main/resources/firebasePrivateKey.json
 .vscode
 src/main/resources/config.properties
+runtime/
+*.exe
+*.zip
